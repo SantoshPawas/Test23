@@ -10,6 +10,10 @@ public class BaseClass
 	{
 		driver=new ChromeDriver();
 		driver.get("https://adactinhotelapp.com");
+		
+		//name new
+		
+		
 	}
 
 }
